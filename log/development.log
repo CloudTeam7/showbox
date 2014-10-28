@@ -754,3 +754,138 @@ Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-24 15:44:23 -0700
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-24 15:44:23 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-24 16:16:41 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 23ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-24 16:16:41 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-24 16:16:41 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-24 16:16:41 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-24 16:16:41 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-24 16:16:41 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-24 16:16:41 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-24 16:16:41 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-24 17:14:17 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 117ms (Views: 94.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-24 17:14:18 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-24 17:14:18 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-24 17:14:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-24 17:14:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-24 17:14:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-24 17:14:18 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-24 17:14:18 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-27 15:31:53 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 111ms (Views: 87.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-27 15:31:53 -0700
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-27 15:31:53 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-27 15:31:53 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-27 15:31:53 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-27 15:31:53 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-27 15:31:53 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-27 15:31:53 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-27 16:01:31 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 128ms (Views: 104.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-27 16:01:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-27 16:01:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-27 16:01:31 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-27 16:01:31 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-27 16:01:31 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-27 16:01:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-27 16:01:31 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-27 16:35:25 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 32ms (Views: 31.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-27 16:35:25 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-27 16:35:25 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-27 16:35:25 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-27 16:35:25 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-27 16:35:25 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-27 16:35:25 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-27 16:35:25 -0700
